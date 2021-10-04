@@ -1,0 +1,66 @@
+[
+    {
+        "key": 1,
+        "name": "Piano",
+        "img": "https://mk0annasnotesan3usdi.kinstacdn.com/wp-content/uploads/2020/01/benefitsofplayingpianoarticleimage-1024x535.jpg",
+        "description": "It is a musical instrument played using a keyboard.",
+        "timing": "Every Week (Saturday-Thursday), 9.30 am",
+        "duration": "2 hours"
+    },
+    {
+        "key": 2,
+        "name": "Guitar",
+        "img": "https://oksanamanagementgroup.com/wp-content/uploads/2018/11/Boy-playing-guitar.jpg",
+        "description": "The guitar is classified as a string instrument.",
+        "timing": "Every Week (Monday-Thursday), 10.30 am",
+        "duration": "2 hours"
+    },
+    {
+        "key": 3,
+        "name": "Voice",
+        "img": "https://thumbs.dreamstime.com/b/girl-singing-microphone-friends-playing-musical-instrument-portrait-cute-young-garage-33903288.jpg",
+        "description": "It is a type of music performed by one or more singers.",
+        "timing": "Every Week (Saturday-Thursday), 11.30 am",
+        "duration": "2 hours"
+    },
+    {
+        "key": 4,
+        "name": "Drums",
+        "img": "https://thumbs.dreamstime.com/z/little-caucasian-girl-drummer-playing-elettronic-drum-kit-shuoting-teen-girls-having-fun-playing-drum-sets-music-146065585.jpg",
+        "description": "Can play by striking with the hand or two sticks.",
+        "timing": "Every Week (Saturday-Thursday), 10.00 am",
+        "duration": "2 hours"
+    },
+    {
+        "key": 5,
+        "name": "Violin",
+        "img": "https://ak.picdn.net/shutterstock/videos/1022685997/thumb/8.jpg",
+        "description": "The violin has four strings tuned in perfect fifths.",
+        "timing": "Every Week (Monday-Thursday), 11.30 am",
+        "duration": "2 hours"
+    },
+    {
+        "key": 6,
+        "name": "Cello",
+        "img": "https://i.ytimg.com/vi/ZNy8BIDMuNo/maxresdefault.jpg",
+        "description": "The cello is used as a solo musical instrument.",
+        "timing": "Every Week (Sunday), 9.30 am",
+        "duration": "2 hours"
+    },
+    {
+        "key": 7,
+        "name": "Double Bass",
+        "img": "https://thumbs.dreamstime.com/z/close-up-hand-double-bass-playing-pizzicato-23358245.jpg",
+        "description": "The lowest-pitched bowed string instrument.",
+        "timing": "Every Week (Saturday-wednesday), 9.30 am",
+        "duration": "2 hours"
+    },
+    {
+        "key": 8,
+        "name": "SaxoPhone",
+        "img": "https://image.freepik.com/free-photo/young-man-playing-saxophone_93675-33962.jpg",
+        "description": "The saxophone is a woodwind instrument.",
+        "timing": "Every Week (Tuesday), 9.30 am",
+        "duration": "2 hours"
+    }
+]

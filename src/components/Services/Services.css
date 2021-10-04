@@ -1,0 +1,15 @@
+.main-container{
+    margin: 80px;
+}
+/* .services-container {
+    margin-top: 0px;
+    padding: 30px;
+    
+} */
+.cart {
+    border: 1px solid gray;
+    height: 100%;
+    padding: 5px;
+   
+    
+}
