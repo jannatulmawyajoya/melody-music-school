@@ -1,6 +1,6 @@
 # Melody Music School
 
-This project was bootstrapped with [Create React App](https://vigorous-bohr-ddc00f.netlify.app/).
+Link: [Melody Music School](https://vigorous-bohr-ddc00f.netlify.app/).
 
 ## This project is about a musical school.
 
