@@ -3,24 +3,28 @@
         "key": 1,
         "name": "Kids",
         "img": "https://www.ox.ac.uk/sites/files/oxford/field/field_image_main/Music%20lessons%20shutterstock_cropped.jpg",
-        "description": "Our school is a solution for families who would like to expose their children to the world of music."
+        "description": "Our school is a solution for families who would like to expose their children to the world of music.",
+        "price": "$50"
     },
     {
         "key": 2,
         "name": "Teens",
         "img": "https://thumbs.dreamstime.com/b/two-female-teens-smartphone-musical-instruments-sitting-floor-home-two-female-teens-smartphone-musical-110820251.jpg",
-        "description": "Our classes help to develop the skills necessary for music learning and a lifelong enjoyment of music."
+        "description": "Our classes help to develop the skills necessary for music learning and a lifelong enjoyment of music.",
+        "price": "$60"
     },
     {
         "key": 3,
         "name": "Adults",
         "img": "https://www.musicalhow.com/wp-content/uploads/Flute-Player.jpg",
-        "description": "We have programs for everyone. In addition to teaching music to children, we instruct adults and seniors."
+        "description": "We have programs for everyone. In addition to teaching music to children, we instruct adults and seniors.",
+        "price": "$100"
     },
     {
         "key": 4,
         "name": "Private Lessons",
         "img": "https://www.dreambox.com/wp-content/uploads/2008/12/boy-violin-music-learning-skills.jpg",
-        "description": "Private music lessons provide one-on-one attention, so teachers can focus on an individual student’s needs."
+        "description": "Private music lessons provide one-on-one attention, so teachers can focus on an individual student’s needs.",
+        "price": "$120"
     }
 ]

@@ -12,11 +12,10 @@ const Banner = () => {
                         <h1 className="title">
                             BE THE MUSIC <br /> STAR AND SHINE
                         </h1>
-                        <p className="text-white text-center mt-3">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-                            tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-                        </p>
-                        <button className="mt-3 about-btn">About Us</button>
+                        <h5 className="text-white text-center mt-3">
+                            “We are the music makers, and we are the dreamers of dreams.”
+                        </h5>
+                        <button className="mt-3 about-btn">START LEARNING</button>
                     </div>
                     <div className="col-md-6">
                         

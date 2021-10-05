@@ -1,0 +1,58 @@
+[
+    {
+        "key": 1,
+        "name": "Kids",
+        "img": "https://www.ox.ac.uk/sites/files/oxford/field/field_image_main/Music%20lessons%20shutterstock_cropped.jpg",
+        "description": "Our school is a solution for families who would like to expose their children to the world of music.",
+        "price": "$50"
+    },
+    {
+        "key": 2,
+        "name": "Teens",
+        "img": "https://thumbs.dreamstime.com/b/two-female-teens-smartphone-musical-instruments-sitting-floor-home-two-female-teens-smartphone-musical-110820251.jpg",
+        "description": "Our classes help to develop the skills necessary for music learning and a lifelong enjoyment of music.",
+        "price": "$60"
+    },
+    {
+        "key": 3,
+        "name": "Adults",
+        "img": "https://www.musicalhow.com/wp-content/uploads/Flute-Player.jpg",
+        "description": "We have programs for everyone. In addition to teaching music to children, we instruct adults and seniors.",
+        "price": "$100"
+    },
+    {
+        "key": 4,
+        "name": "Private Lessons",
+        "img": "https://www.dreambox.com/wp-content/uploads/2008/12/boy-violin-music-learning-skills.jpg",
+        "description": "Private music lessons provide one-on-one attention, so teachers can focus on an individual student’s needs.",
+        "price": "$120"
+    },
+    {
+        "key": 5,
+        "name": "Recording Sessions",
+        "img": "https://fthmb.tqn.com/HGSyfYQq9yO580VCbuOLag0qA4w=/2122x1415/filters:fill(auto,1)/82150178-56a68e215f9b58b7d0e388e5.jpg",
+        "description": "Audio and video recordings in the beautiful Sunnyvale Presbyterian Church for student musicians, for auditions, competition entries, and archives.  2-hour minimum session.",
+        "price": "$200"
+    },
+    {
+        "key": 6,
+        "name": "Headshots",
+        "img": "https://cdn.merriammusic.com/2017/10/Easy-Pop-Songs-Piano.jpg",
+        "description": "Professional portraits for students and musicians perfect for auditions, applications, and performance marketing. Images are delivered in 3 forms via print-ready, web, and LinkedIn.",
+        "price": "$350"
+    },
+    {
+        "key": 7,
+        "name": "Sample Classes",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.OsF33FCTkZ9iQ9_Zj0fmfQHaE7&pid=Api&P=0&w=250&h=167",
+        "description": "Sample classes offered for field trips, play dates and birthday parties. Includes musical activities, fun songs and games, hands-on experiences with our piano lab, rhythm and orff instruments,  and optional arts and crafts.  Available weekday mornings, Saturdays @ 9:00 and 1:00.",
+        "price": "$125"
+    },
+    {
+        "key": 8,
+        "name": "Performances",
+        "img": "https://tse2.mm.bing.net/th?id=OIP.k4fUNSxI_HKAUesP015drAHaE8&pid=Api&P=0&w=230&h=154",
+        "description": "Musicians can be booked for private and business events, for evenings and weekends pending availability.",
+        "price": "$120"
+    }
+]

@@ -9,7 +9,7 @@ import NotFound from './components/NotFound/NotFound';
 // import MoreServices from './components/MoreServices/MoreServices';
 import ContactUs from './components/ContactUs/ContactUs';
 import MenuBar from './components/MenuBar/MenuBar';
-import LatestNews from './components/LatestNews/LatestNews';
+import MoreServices from './components/MoreServices/MoreServices';
 import Class from './Class/Class';
 
 
@@ -34,8 +34,8 @@ function App() {
           <Route exact path="/class">
             <Class></Class>
           </Route>
-          <Route exact path="/latestNews">
-          <LatestNews></LatestNews>
+          <Route exact path="/moreServices">
+          <MoreServices></MoreServices>
           </Route>
           <Route exact path="/contactUs">
             <ContactUs></ContactUs>
@@ -45,7 +45,9 @@ function App() {
           </Route>
             </Switch>
               <Footer></Footer>
+        
         </Router>
+        
         
       
       

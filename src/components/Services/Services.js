@@ -23,6 +23,7 @@ const Services = () => {
                                    </div>
                                    <h2>{service.name}</h2>
                                    <p>{service.description}</p>
+                                   <h5>{service.price}</h5>
                                </div>
                             </div>))
                     }

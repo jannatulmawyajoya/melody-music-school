@@ -2,8 +2,8 @@ import React from 'react';
 
 const NotFound = () => {
     return (
-        <div>
-            <h1>Page not found</h1>
+        <div className="m-3">
+            <img src="https://cdn-images-1.medium.com/max/1600/1*mUClow2WD0I2FIL_Iuzxfw.gif" alt="" />
         </div>
     );
 };

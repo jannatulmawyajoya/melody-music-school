@@ -1,11 +1,12 @@
-
-
+.banner-container{
+  overflow-x: hidden;
+}
 .banner {
   
   background-image: url("https://www.surabhividyaniketan.edu.in/wp-content/uploads/2020/02/music-banner.jpg"),
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
   height: 780px;
-  width: 100%;
+  width: 100;
   /* border: 1px solid red; */
   background-blend-mode: overlay;
   background-repeat: no-repeat;
@@ -18,9 +19,12 @@
   font-size: 59px;
 }
 .about-btn {
-  background-color: #ff0505;
+  background-color: darkgray;
   outline: none;
   border: none;
   padding: 17px 34px;
-  color: white;
+  color: black;
+  font-size: large;
+  font-weight: 700;
+  border-radius: 50px;
 }

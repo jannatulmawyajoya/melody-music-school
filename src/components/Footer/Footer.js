@@ -23,7 +23,7 @@ const Footer = () => {
                     <div className="row">
                         <div className="col-md-5">
                             <div className="left-container text-start">
-                                <h1>Biona Sports Club</h1>
+                                <h1>Melody Music School</h1>
                                 <div className="icons-container d-flex text-center ">
                                     <div className="icon">
                                         <FontAwesomeIcon icon={faInstagramSquare} />
@@ -47,7 +47,7 @@ const Footer = () => {
                                 </p>
 
                                 <p className="mt-5">
-                                    <small>Zemez © . All rights reserved.</small>
+                                    <small>Melody © . All rights reserved.</small>
                                 </p>
                             </div>
                         </div>
@@ -56,7 +56,7 @@ const Footer = () => {
                                 <ul>
                                     <li className="footer-menu">Home</li>
                                     <li className="footer-menu">Services</li>
-                                    <li className="footer-menu">Sports</li>
+                                    <li className="footer-menu">Classes</li>
                                     <li className="footer-menu">Contact us</li>
                                     <li className="footer-menu"> About us</li>
                                 </ul>
@@ -68,14 +68,14 @@ const Footer = () => {
                                 <input
                                     className="footer-input"
                                     type="text"
-                                    placeholder="Enter Email"
+                                    placeholder=" "
                                 />
                                 <div className="phone d-flex align-items-center justify-content-center mt-4">
                                     <div className="foter-phone-icon">
                                         <FontAwesomeIcon icon={faPhoneVolume} />
                                     </div>
                                     <div>
-                                        <h5>+1 8 800 555 35 35</h5>
+                                        <h5>+1 8 800 999 35 35</h5>
                                     </div>
                                 </div>
                                 <div className="map d-flex align-items-center justify-content-center">
