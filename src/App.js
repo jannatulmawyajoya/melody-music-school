@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Banner from './components/Banner/Banner';
 import Footer from './components/Footer/Footer';
-import Services from './components/Services/Services';
+// import Services from './components/Services/Services';
 import { BrowserRouter as Router, Switch , Route} from 'react-router-dom';
 import AboutUs from './components/AboutUs/AboutUs';
 import NotFound from './components/NotFound/NotFound';
@@ -51,9 +51,7 @@ function App() {
         
       
       
-      {/* <Banner></Banner>
-      <AllServices></AllServices>
-      <Footer></Footer> */}
+     
     </div>
   );
 }
